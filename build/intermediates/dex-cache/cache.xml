@@ -7,17 +7,8 @@
         jumboMode="true"
         optimize="true"
         revision="23.0.3"
-        sha1="78d3193abf0f15b73c297125bdbd95527edfdd85">
+        sha1="3db22ca5c88fb8c5bbbfe148e9c271374986bbcc">
         <dex dex="/Users/redice/Documents/learn/android/LayoutExamples/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_0e18df97ad2b90aaeeaacbd98fa70e152a9c730e/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/redice/Documents/learn/android/LayoutExamples/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.3"
-        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
-        <dex dex="/Users/redice/Documents/learn/android/LayoutExamples/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.4.0_326828c76995009f0e1cc5028ef60f26c9e0e741/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -30,12 +21,30 @@
     </item>
     <item
         is-multidex="true"
+        jar="/Users/redice/Documents/learn/android/LayoutExamples/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Users/redice/Documents/learn/android/LayoutExamples/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.4.0_326828c76995009f0e1cc5028ef60f26c9e0e741/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="/Users/redice/Documents/learn/android/LayoutExamples/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="23.0.3"
         sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
         <dex dex="/Users/redice/Documents/learn/android/LayoutExamples/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.4.0_94e79ecd7ad92370a5004688d3ac0bfb8063c1ce/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/redice/Documents/learn/android/LayoutExamples/app/build/intermediates/exploded-aar/com.android.volley/volley/1.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="/Users/redice/Documents/learn/android/LayoutExamples/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.volley-volley-1.0.0_12623b974403690355b90da1a48a8b7e1586424d/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -48,15 +57,6 @@
     </item>
     <item
         is-multidex="true"
-        jar="/Users/redice/Documents/learn/android/LayoutExamples/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.3"
-        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
-        <dex dex="/Users/redice/Documents/learn/android/LayoutExamples/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.4.0_eb46aa8ac85d8d824517ca10545df09963b502c0/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="/Users/redice/Documents/learn/android/LayoutExamples/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
         jumboMode="true"
         optimize="true"
@@ -66,11 +66,20 @@
     </item>
     <item
         is-multidex="true"
+        jar="/Users/redice/Documents/learn/android/LayoutExamples/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/redice/Documents/learn/android/LayoutExamples/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.4.0_eb46aa8ac85d8d824517ca10545df09963b502c0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="/Users/redice/Documents/learn/android/LayoutExamples/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
         jumboMode="true"
         optimize="true"
         revision="23.0.3"
-        sha1="72a2ceeafeddbdac39f4ad5c2198b092553b659c">
+        sha1="5fb83d130a3e77453e40d4679fe4e999bc282eff">
         <dex dex="/Users/redice/Documents/learn/android/LayoutExamples/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_ca7949d986067c3cf4fab663bf0667f915a64073/classes.dex" />
     </item>
 

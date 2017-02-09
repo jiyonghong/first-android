@@ -1,10 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
-<merge xmlns:android="http://schemas.android.com/apk/res/android">
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:custom="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
 
-    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_margin="12dp"
+        android:layout_marginLeft="12dp"
+        android:layout_marginRight="12dp"
+        android:layout_marginBottom="12dp"
         android:background="@drawable/background_border"
         android:orientation="vertical"
         android:padding="12dp">
@@ -14,10 +19,13 @@
             android:layout_height="wrap_content"
             android:orientation="horizontal">
 
-            <ImageView
+            <com.redice_inc.layoutexamples.RoundedNetworkImageView
+                android:id="@+id/profile_image"
                 android:layout_width="80dp"
                 android:layout_height="80dp"
-                android:src="@drawable/rectangle" />
+                android:scaleType="centerCrop"
+                android:background="@drawable/rectangle"
+                custom:radius="12" />
 
             <LinearLayout
                 android:layout_width="0dp"
@@ -111,4 +119,4 @@
 
     </LinearLayout>
 
-</merge>
+</LinearLayout>

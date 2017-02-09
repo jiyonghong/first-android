@@ -1,11 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <declare-styleable name="ProfileView">
+    <declare-styleable name="RoundedNetworkImageView">
 
-        <attr name="name" format="string" />
-        <attr name="company" format="string" />
-        <attr name="job" format="string" />
+        <attr name="isCircular" format="boolean" />
+
+        <attr name="radius" format="integer" />
+
+        <attr name="margin" format="integer" />
+
+        <attr name="isShadowPresent" format="boolean" />
+
+        <attr name="circleColor" format="color"/>
+
+        <attr name="drawCircle" format="boolean"/>
 
     </declare-styleable>
 
